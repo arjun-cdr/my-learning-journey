@@ -1,4 +1,4 @@
-#Virtual Environments (venv) - 17/7/26
+# Virtual Environments (venv) - 17/7/26
 
 ### What is it?
 A virtual environment is an isolated self-contained directory that 
