@@ -13,4 +13,6 @@ one of the projects. Virtual environments keep them completely separate.
 - **Create:** `python -m venv myenv`
 - **Activate (Mac/Linux):** `source myenv/bin/activate`
 - **Activate (Windows):** `myenv\Scripts\activate`
+- **Command Prompt (Windows):** `.\env\Scripts\activate.bat`
+- **Bypass Windows:** `powershell -ExecutionPolicy Bypass -File .\myenv\Scripts\Activate.ps1`
 - **Deactivate:** `deactivate`
